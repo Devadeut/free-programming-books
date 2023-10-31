@@ -173,7 +173,6 @@ This project lists books and other resources grouped by genres:
 + [English](more/free-programming-interactive-tutorials-en.md)
 + [German](more/free-programming-interactive-tutorials-de.md)
 + [Japanese / 日本語](more/free-programming-interactive-tutorials-ja.md)
-+ [Portuguese (Brazil)](more/free-programming-interactive-tutorials-pt_BR.md)
 + [Russian / Русский язык](more/free-programming-interactive-tutorials-ru.md)
 
 
@@ -187,6 +186,7 @@ This project lists books and other resources grouped by genres:
 Free Podcasts and Screencasts:
 
 + [Arabic / al Arabiya / العربية](casts/free-podcasts-screencasts-ar.md)
++ [Burmese / မြန်မာဘာသာ](casts/free-podcasts-screencasts-my.md)
 + [Chinese / 中文](casts/free-podcasts-screencasts-zh.md)
 + [Czech / čeština / český jazyk](casts/free-podcasts-screencasts-cs.md)
 + [Dutch / Nederlands](casts/free-podcasts-screencasts-nl.md)
